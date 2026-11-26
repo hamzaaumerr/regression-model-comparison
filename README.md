@@ -150,7 +150,7 @@ regression-model-comparison/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hamzaaumerr/regression-model-comparison
+git clone https://github.com/hamzaaumerr/regression-model-comparison.git
 cd regression-model-comparison
 ```
 
